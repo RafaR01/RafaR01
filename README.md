@@ -1,4 +1,4 @@
-## Hi! I'm Rafael Rodrigues, welcome to my profile! 👋
+## Hi! I'm Rafael Rodrigues, welcome to my profile! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />
 
 - 📌 Currently taking a Master's Degree in Computer Science - Internet of Things
 - 🎓 Graduated in Computer Science and Engineering
@@ -11,7 +11,7 @@
 </div>
 <br/>
 <div>
-  <a style="text-align: center">
+  <a>
     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
@@ -29,3 +29,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-rafaelrodrigues-/)
 [![Hotmail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rafaelaarodrigues2001@hotmail.com)
+
+<div>
+  <img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" />
+</div>

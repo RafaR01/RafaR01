@@ -1,5 +1,8 @@
 ## Hi! I'm Rafael Rodrigues, welcome to my profile! 👋
 
+- 📌 Currently taking a Master's Degree in Computer Science - Internet of Things
+- 🎓 Graduated in Computer Science and Engineering
+
 <div>
   <a style="text-align: center">
     <img src="https://github-readme-stats.vercel.app/api/?username=RafaR01&show_icons=true&theme=dark&include_all_commits=true"/>

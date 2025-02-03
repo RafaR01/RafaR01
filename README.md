@@ -1,7 +1,7 @@
 ## Hi! I'm Rafael Rodrigues, welcome to my profile! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />
 
 - 🎓 Academic degrees
-      - Master in Computer Science - Internet Of Things
+      - Master in Computer Science - Internet Of Things <br/>
       - Bachelor in Computer Science and Engineering
 
 - 👨‍💻 Professional experience

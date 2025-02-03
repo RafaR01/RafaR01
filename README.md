@@ -6,7 +6,7 @@
 
 - 👨‍💻 Professional experience <br/>
       - (09/2023 - 06/2024) 9 Months internship as a fullstack developer (C#, Angular, SQL, Docker) <br/>
-      - (07/2024 - currently) Fullstack developer role (C#, Angular, React, Postgres, Docker)
+      - (07/2024 - currently) Fullstack developer role (C#, Angular, React, Postgres, Docker) <br/>
 
 <div>
   <a style="text-align: center">

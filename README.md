@@ -1,7 +1,12 @@
 ## Hi! I'm Rafael Rodrigues, welcome to my profile! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />
 
-- 📌 Currently taking a Master's Degree in Computer Science - Internet of Things
-- 🎓 Graduated in Computer Science and Engineering
+- 🎓 Academic degrees
+      - Master in Computer Science - Internet Of Things
+      - Bachelor in Computer Science and Engineering
+
+- 👨‍💻 Professional experience
+      - (09/2023 - 06/2024) 9 Months internship as a fullstack developer (C#, Angular, SQL, Docker)
+      - (07/2024 - currently) Fullstack developer role (C#, Angular, React, Postgres, Docker)
 
 <div>
   <a style="text-align: center">
